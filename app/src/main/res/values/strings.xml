@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WRApp</string>
+    <string name="search">Search</string>
+    <string name="address">Address</string>
+    <string name="companyDetails">Company Details</string>
+    <string name="show_in_map">Show in Map</string>
+</resources>
